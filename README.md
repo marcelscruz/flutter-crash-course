@@ -1,4 +1,4 @@
-# Flutter - Destination App
+# Flutter - WordPair Generator
 
 Learning how to code in Flutter.
 
